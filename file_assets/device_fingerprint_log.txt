@@ -1,0 +1,292 @@
+Timestamp: Thu May 22 08:00:53 PM IST 2025
+==============================================
+------------------------------
+MAC: d6:c6:a6:49:14:6d
+IP: 192.168.137.24
+Vendor: Unknown Vendor
+DNS Query: www.google.com
+------------------------------
+MAC: d6:c6:a6:49:14:6d
+IP: 192.168.137.24
+Vendor: Unknown Vendor
+DNS Query: www.google.com
+------------------------------
+MAC: d6:c6:a6:49:14:6d
+IP: 192.168.137.24
+Vendor: Unknown Vendor
+DNS Query: connectivitycheck.gstatic.com
+------------------------------
+MAC: d6:c6:a6:49:14:6d
+IP: 192.168.137.24
+Vendor: Unknown Vendor
+DNS Query: connectivitycheck.gstatic.com
+------------------------------
+MAC: 08:00:27:18:d0:a2
+IP: 8.8.8.8
+Vendor: Unknown Vendor
+DNS Query: connectivitycheck.gstatic.com
+------------------------------
+MAC: 08:00:27:18:d0:a2
+IP: 8.8.8.8
+Vendor: Unknown Vendor
+DNS Query: connectivitycheck.gstatic.com
+------------------------------
+MAC: 08:00:27:18:d0:a2
+IP: 8.8.8.8
+Vendor: Unknown Vendor
+DNS Query: www.google.com
+------------------------------
+MAC: 08:00:27:18:d0:a2
+IP: 8.8.8.8
+Vendor: Unknown Vendor
+DNS Query: www.google.com
+------------------------------
+MAC: d6:c6:a6:49:14:6d
+IP: 192.168.137.24
+Vendor: Unknown Vendor
+DNS Query: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36
+------------------------------
+MAC: d6:c6:a6:49:14:6d
+IP: 192.168.137.24
+Vendor: Unknown Vendor
+DNS Query: 1dot1dot1dot1.cloudflare-dns.com
+------------------------------
+MAC: d6:c6:a6:49:14:6d
+IP: 192.168.137.24
+Vendor: Unknown Vendor
+DNS Query: 1dot1dot1dot1.cloudflare-dns.com
+------------------------------
+MAC: 08:00:27:18:d0:a2
+IP: 8.8.8.8
+Vendor: Unknown Vendor
+DNS Query: 1dot1dot1dot1.cloudflare-dns.com
+------------------------------
+MAC: 08:00:27:18:d0:a2
+IP: 8.8.8.8
+Vendor: Unknown Vendor
+DNS Query: 1dot1dot1dot1.cloudflare-dns.com
+------------------------------
+MAC: 62:cc:1f:06:d4:cc
+IP: 192.168.137.89
+Vendor: Unknown Vendor
+DNS Query: spclient.wg.spotify.com
+------------------------------
+MAC: 62:cc:1f:06:d4:cc
+IP: 192.168.137.89
+Vendor: Unknown Vendor
+DNS Query: spclient.wg.spotify.com
+------------------------------
+MAC: 62:cc:1f:06:d4:cc
+IP: 192.168.137.89
+Vendor: Unknown Vendor
+DNS Query: spclient.wg.spotify.com
+------------------------------
+MAC: 62:cc:1f:06:d4:cc
+IP: 192.168.137.89
+Vendor: Unknown Vendor
+DNS Query: spclient.wg.spotify.com
+------------------------------
+MAC: 62:cc:1f:06:d4:cc
+IP: 192.168.137.89
+Vendor: Unknown Vendor
+DNS Query: spclient.wg.spotify.com
+------------------------------
+MAC: 00:e0:4c:34:8c:b0
+IP: 192.168.137.1
+Vendor: Unknown Vendor
+DNS Query: spclient.wg.spotify.com
+------------------------------
+MAC: 00:e0:4c:34:8c:b0
+IP: 192.168.137.1
+Vendor: Unknown Vendor
+DNS Query: spclient.wg.spotify.com
+------------------------------
+MAC: 62:cc:1f:06:d4:cc
+IP: 192.168.137.89
+Vendor: Unknown Vendor
+DNS Query: spclient.wg.spotify.com
+------------------------------
+MAC: 00:e0:4c:34:8c:b0
+IP: 192.168.137.1
+Vendor: Unknown Vendor
+DNS Query: spclient.wg.spotify.com
+------------------------------
+MAC: 00:e0:4c:34:8c:b0
+IP: 192.168.137.1
+Vendor: Unknown Vendor
+DNS Query: spclient.wg.spotify.com
+------------------------------
+MAC: 62:cc:1f:06:d4:cc
+IP: 192.168.137.89
+Vendor: Unknown Vendor
+DNS Query: spclient.wg.spotify.com
+------------------------------
+MAC: 00:e0:4c:34:8c:b0
+IP: 192.168.137.1
+Vendor: Unknown Vendor
+DNS Query: spclient.wg.spotify.com
+------------------------------
+MAC: 62:cc:1f:06:d4:cc
+IP: 192.168.137.89
+Vendor: Unknown Vendor
+DNS Query: extension.femetrics.grammarly.io
+------------------------------
+MAC: 62:cc:1f:06:d4:cc
+IP: 192.168.137.89
+Vendor: Unknown Vendor
+DNS Query: extension.femetrics.grammarly.io
+------------------------------
+MAC: 62:cc:1f:06:d4:cc
+IP: 192.168.137.89
+Vendor: Unknown Vendor
+DNS Query: config.extension.grammarly.com
+------------------------------
+MAC: 62:cc:1f:06:d4:cc
+IP: 192.168.137.89
+Vendor: Unknown Vendor
+DNS Query: config.extension.grammarly.com
+------------------------------
+MAC: 62:cc:1f:06:d4:cc
+IP: 192.168.137.89
+Vendor: Unknown Vendor
+DNS Query: extension.femetrics.grammarly.io
+------------------------------
+MAC: 62:cc:1f:06:d4:cc
+IP: 192.168.137.89
+Vendor: Unknown Vendor
+DNS Query: extension.femetrics.grammarly.io
+------------------------------
+MAC: 62:cc:1f:06:d4:cc
+IP: 192.168.137.89
+Vendor: Unknown Vendor
+DNS Query: config.extension.grammarly.com
+------------------------------
+MAC: 62:cc:1f:06:d4:cc
+IP: 192.168.137.89
+Vendor: Unknown Vendor
+DNS Query: config.extension.grammarly.com
+------------------------------
+MAC: 00:e0:4c:34:8c:b0
+IP: 192.168.137.1
+Vendor: Unknown Vendor
+DNS Query: extension.femetrics.grammarly.io
+------------------------------
+MAC: 00:e0:4c:34:8c:b0
+IP: 192.168.137.1
+Vendor: Unknown Vendor
+DNS Query: extension.femetrics.grammarly.io
+------------------------------
+MAC: 00:e0:4c:34:8c:b0
+IP: 192.168.137.1
+Vendor: Unknown Vendor
+DNS Query: config.extension.grammarly.com
+------------------------------
+MAC: 00:e0:4c:34:8c:b0
+IP: 192.168.137.1
+Vendor: Unknown Vendor
+DNS Query: config.extension.grammarly.com
+------------------------------
+MAC: 00:e0:4c:34:8c:b0
+IP: 192.168.137.1
+Vendor: Unknown Vendor
+DNS Query: config.extension.grammarly.com
+------------------------------
+MAC: 00:e0:4c:34:8c:b0
+IP: 192.168.137.1
+Vendor: Unknown Vendor
+DNS Query: config.extension.grammarly.com
+------------------------------
+MAC: 00:e0:4c:34:8c:b0
+IP: 192.168.137.1
+Vendor: Unknown Vendor
+DNS Query: spclient.wg.spotify.com
+------------------------------
+MAC: 00:e0:4c:34:8c:b0
+IP: 192.168.137.1
+Vendor: Unknown Vendor
+DNS Query: spclient.wg.spotify.com
+------------------------------
+MAC: 00:e0:4c:34:8c:b0
+IP: 192.168.137.1
+Vendor: Unknown Vendor
+DNS Query: extension.femetrics.grammarly.io
+------------------------------
+MAC: 00:e0:4c:34:8c:b0
+IP: 192.168.137.1
+Vendor: Unknown Vendor
+DNS Query: extension.femetrics.grammarly.io
+------------------------------
+MAC: 62:cc:1f:06:d4:cc
+IP: 192.168.137.89
+Vendor: Unknown Vendor
+DNS Query: unagi.amazon.in
+------------------------------
+MAC: 62:cc:1f:06:d4:cc
+IP: 192.168.137.89
+Vendor: Unknown Vendor
+DNS Query: unagi.amazon.in
+------------------------------
+MAC: 62:cc:1f:06:d4:cc
+IP: 192.168.137.89
+Vendor: Unknown Vendor
+DNS Query: unagi.amazon.in
+------------------------------
+MAC: 62:cc:1f:06:d4:cc
+IP: 192.168.137.89
+Vendor: Unknown Vendor
+DNS Query: unagi.amazon.in
+------------------------------
+MAC: 62:cc:1f:06:d4:cc
+IP: 192.168.137.89
+Vendor: Unknown Vendor
+DNS Query: unagi.amazon.in
+------------------------------
+MAC: 00:e0:4c:34:8c:b0
+IP: 192.168.137.1
+Vendor: Unknown Vendor
+DNS Query: unagi.amazon.in
+------------------------------
+MAC: 00:e0:4c:34:8c:b0
+IP: 192.168.137.1
+Vendor: Unknown Vendor
+DNS Query: unagi.amazon.in
+------------------------------
+MAC: 00:e0:4c:34:8c:b0
+IP: 192.168.137.1
+Vendor: Unknown Vendor
+DNS Query: unagi.amazon.in
+------------------------------
+MAC: 00:e0:4c:34:8c:b0
+IP: 192.168.137.1
+Vendor: Unknown Vendor
+DNS Query: unagi.amazon.in
+------------------------------
+MAC: 62:cc:1f:06:d4:cc
+IP: 192.168.137.89
+Vendor: Unknown Vendor
+DNS Query: unagi.amazon.in
+------------------------------
+MAC: 00:e0:4c:34:8c:b0
+IP: 192.168.137.1
+Vendor: Unknown Vendor
+DNS Query: unagi.amazon.in
+------------------------------
+MAC: 00:e0:4c:34:8c:b0
+IP: 192.168.137.1
+Vendor: Unknown Vendor
+DNS Query: unagi.amazon.in
+------------------------------
+MAC: 62:cc:1f:06:d4:cc
+IP: 192.168.137.89
+Vendor: Unknown Vendor
+DNS Query: i.ytimg.com
+------------------------------
+MAC: 62:cc:1f:06:d4:cc
+IP: 192.168.137.89
+Vendor: Unknown Vendor
+DNS Query: i.ytimg.com
+------------------------------
+MAC: 00:e0:4c:34:8c:b0
+IP: 192.168.137.1
+Vendor: Unknown Vendor
+DNS Query: i.ytimg.com
