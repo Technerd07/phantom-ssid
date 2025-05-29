@@ -172,36 +172,18 @@ sudo systemctl enable dnsmasq
 
 ### 6. Network Monitoring (Optional)
 
-#### `network_monitor.sh` Logging Script:
-
-```bash
-#!/bin/bash
-LOG_DIR="/var/log/rogue_ap"
-mkdir -p $LOG_DIR
-
-monitor_connections() {
-    while true; do
-        date >> $LOG_DIR/connections.log
-        arp -a >> $LOG_DIR/connections.log
-        echo "---" >> $LOG_DIR/connections.log
-        sleep 60
-    done
-}
-
-monitor_dns() {
-    tail -f /var/log/dnsmasq.log | grep --line-buffered "query" >> $LOG_DIR/dns_queries.log
-}
-
-monitor_connections &
-monitor_dns &
+## Network Monitoring (Optional)
+[📁 View Network Monitor Script](/file_assets/fingerprint_logger.sh)
 ```
 
 Make it executable:
 
 ```bash
-chmod +x network_monitor.sh
-sudo ./network_monitor.sh
+chmod +x fingerprint_logger.sh
+sudo ./fingerprint_logger.sh
 ```
+## Fingerprint Log Output
+[📄 View device_fingerprint_log.txt](/file_assets/device_fingerprint_log.txt) - Click to view the fingerprint scan results
 
 ---
 
@@ -243,20 +225,14 @@ sudo ./network_monitor.sh
 ---
 
 ## 📁 Recommended Repo Structure (For GitHub)
-
 ```
-rogue-ap-project/
-├── README.md
-├── dnsmasq.conf
-├── network_monitor.sh
-├── setup_logs/
-│   ├── dnsmasq.log
-│   └── connections.log
-└── screenshots/
-    ├── router_config.png
-    └── iptables_rules.png
+phantom-ssid/
+│
+├── README.md                  # [View README](README.md)
+│
+└── file_assets/
+    ├── fingerprint_logger.sh  # [View Script](file_assets/fingerprint_logger.sh)
+    ├── network_monitor.sh    # [View Script](file_assets/network_monitor.sh)
+    └── device_fingerprint_log.txt # [View Logs](file_assets/device_fingerprint_log.txt)
 ```
 
----
-
-Would you like me to generate this as a `README.md` file for your GitHub repo with Markdown formatting preserved?
