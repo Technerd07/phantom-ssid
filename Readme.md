@@ -9,13 +9,13 @@
 1. [Overview](#overview)
 2. [System Requirements](#system-requirements)
 3. [Step-by-Step Implementation](#step-by-step-implementation)
-
    * [1. Windows Host Internet Sharing](#1-windows-host-internet-sharing)
    * [2. VirtualBox Configuration](#2-virtualbox-configuration)
    * [3. Kali Linux Guest Setup](#3-kali-linux-guest-setup)
    * [4. Spare Router Configuration](#4-spare-router-configuration)
    * [5. DNSMasq Setup](#5-dnsmasq-setup)
    * [6. Network Monitoring (Optional)](#6-network-monitoring-optional)
+   * [7. Architecture Diagram](#7-System-Architecture)
 4. [Testing & Verification](#testing--verification)
 5. [Security Considerations](#security-considerations)
 6. [Troubleshooting](#troubleshooting)
@@ -186,7 +186,10 @@ sudo ./fingerprint_logger.sh
 [📄 View device_fingerprint_log.txt](/file_assets/device_fingerprint_log.txt) - Click to view the fingerprint scan results
 
 ---
+## 🧭 Network Architecture
 
+![Rogue AP Detection System Architecture](/file_assets/architecture.png)
+---
 ## ✅ Testing & Verification
 
 1. Connect a client device (mobile/laptop) to the **configured SSID**
@@ -228,11 +231,13 @@ sudo ./fingerprint_logger.sh
 ```
 phantom-ssid/
 │
-├── README.md                  # [View README](README.md)
+├── README.md                       # [View README](README.md)
 │
 └── file_assets/
-    ├── fingerprint_logger.sh  # [View Script](file_assets/fingerprint_logger.sh)
-    ├── network_monitor.sh    # [View Script](file_assets/network_monitor.sh)
-    └── device_fingerprint_log.txt # [View Logs](file_assets/device_fingerprint_log.txt)
+    ├── architecture.png            # [View Diagram](file_assets/architecture.png)
+    ├── fingerprint_logger.sh       # [View Script](file_assets/fingerprint_logger.sh)
+    ├── network_monitor.sh          # [View Script](file_assets/network_monitor.sh)
+    └── device_fingerprint_log.txt  # [View Logs](file_assets/device_fingerprint_log.txt)
+
 ```
 
