@@ -188,7 +188,7 @@ sudo ./fingerprint_logger.sh
 ---
 ## 🧭 Network Architecture
 
-![Rogue AP Detection System Architecture](/file_assets/architecture.png)
+![Rogue AP Detection System Architecture](/file_assets/architecture_diagram.svg)
 ---
 ## ✅ Testing & Verification
 
